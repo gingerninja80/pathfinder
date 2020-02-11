@@ -30,22 +30,22 @@
 						
 		<div class="container-fluid">
 			<!-- #### page content here #### -->
-	    <script src="https://unpkg.com/jquery"></script>
+	    <script src="assets/js/jquery.js"></script>
 	
-	    <script src="https://surveyjs.azureedge.net/1.0.23/survey.jquery.js"></script>
-	    <link href="https://surveyjs.azureedge.net/1.0.23/survey.css" type="text/css" rel="stylesheet"/>
-	    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/js/select2.min.js"></script>
-          <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/css/select2.min.css" rel="stylesheet" />
+	    <script src="assets/js/survey.jquery.js"></script>
+	    <link href="assets/css/survey.css" type="text/css" rel="stylesheet"/>
+	    <script src="assets/js/select2.min.js"></script>
+          <link href="assets/css/select2.min.css" rel="stylesheet" />
 
 	    <!--
 	    <link rel="stylesheet" href="https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css">
 	    -->
-	    <script src="https://unpkg.com/surveyjs-widgets"></script>
+	    <script src="assets/js/surveyjs-widgets.js"></script>
 
 	    <!--<link rel="stylesheet" href="./context/index.css">-->
 
-	    <script src="https://unpkg.com/icheck@1.0.2"></script>
-	    <link rel="stylesheet" href="https://unpkg.com/icheck@1.0.2/skins/square/blue.css">
+	    <script src="assets/js/icheck.js"></script>
+	    <link rel="stylesheet" href="assets/css/blue.css">
 			
 			<div class="row title-row">
 				<div class="col-xs-10">
