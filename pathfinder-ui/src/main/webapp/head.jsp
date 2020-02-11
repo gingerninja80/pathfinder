@@ -6,7 +6,7 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 
-    <link rel="stylesheet" href="https://rawgit.com/RedHatBrand/Overpass/master/webfonts/overpass-webfont/overpass.css"/>
+    <link rel="stylesheet" href="assets/css/overpass.css"/>
 		<link rel="stylesheet" href="assets/css/bootstrap-3.3.7.min.css" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 
